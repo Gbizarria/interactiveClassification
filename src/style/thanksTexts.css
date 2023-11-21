@@ -1,0 +1,12 @@
+.thanks__title{
+    color: var(--White);
+    font-weight: var(--Weights-min);
+    margin-top: 10px;
+}
+
+
+.Thanks__paragraph{
+    color: var(--Light-Grey);
+    font-weight: var(--Weights-min);
+    text-align: center;
+}

@@ -1,0 +1,15 @@
+.star__interactive__rating{
+    grid-column: 1/1;
+    grid-row: 1/2;
+}
+
+.container__star{
+    background: var(--Medium-Grey);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 8px;
+    width: 35px;
+    clip-path: circle();
+
+}

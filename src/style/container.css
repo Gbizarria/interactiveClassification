@@ -1,0 +1,19 @@
+
+
+.container__interactive__rating{
+    width: 320px;
+    height: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    background:var(--Dark-Blue);
+ 
+}
+
+.container__interactive__rating{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: minmax(30px auto);
+    border-radius: 25px;
+}
+
+

@@ -1,0 +1,19 @@
+
+.Container__interative_thanks{
+    width: 320px;
+    height: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    background:var(--Dark-Blue);
+    border-radius: 25px;
+   
+
+    
+}
+.Container__interative_thanks{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}

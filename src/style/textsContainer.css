@@ -1,0 +1,17 @@
+.title__interactive__rating{
+    grid-column: 1/-1;
+    grid-row: 2;
+    color: var(--White);
+    font-weight: var(--Weights-max);
+    align-self: center;
+    height: 30px;
+}
+
+.text__interactive__rating{
+    grid-column: 1/-1;
+    grid-row: 3;
+    color: var(--White);
+    color: var(--Light-Grey);
+    font-weight: var(--Weights-min);
+    height: 40px;
+}

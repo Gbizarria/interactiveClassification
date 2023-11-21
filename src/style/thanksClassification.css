@@ -1,0 +1,7 @@
+.thanks__dataClassification{
+    border-radius: 20px;
+    background: var(--Medium-Grey);
+    height: 30px;
+    padding: 5px 10px;
+    color: var(--Orange);
+} 
